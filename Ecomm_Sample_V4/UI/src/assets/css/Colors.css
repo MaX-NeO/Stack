@@ -1,0 +1,56 @@
+.primary {
+    color: #8a2be2;
+}
+
+.bg-primary {
+    background-color: #8a2be2;
+}
+
+.secondary {
+    color: #f5f5f7;
+}
+
+.bg-secondary {
+    background-color: #f5f5f7;
+}
+
+.white {
+    color: #fff;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.black {
+    color: #000;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.green {
+    color: rgb(0, 162, 0);
+}
+
+.bg-green {
+    background-color: rgb(0, 162, 0);
+}
+
+.red {
+    color: rgb(162, 0, 0);
+}
+
+.bg-red {
+    background-color: rgb(162, 0, 0);
+    ;
+}
+
+.yellow {
+    color: rgb(231, 224, 3);
+}
+
+.bg-yellow {
+    background-color: rgb(228, 221, 3);
+}
